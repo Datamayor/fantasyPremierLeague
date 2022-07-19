@@ -14,3 +14,8 @@ span img {
     width: 10px;
     height: 20px;
 }
+
+header {
+    display: inline-block;
+    width: 100%;
+}

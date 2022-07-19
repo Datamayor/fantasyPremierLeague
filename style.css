@@ -5,17 +5,28 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-span {
-    background-color: white;
+.head {
     display: inline-block;
-    margin-left: 10px;
+    width: 60%;
+    background-color: rgb(219, 25, 25);
 }
 span img {
-    width: 10px;
-    height: 20px;
+    width: 30px;
+    height: 30px;
 }
-
-header {
+span img:hover {
+    width: 40px;
+    height: 40px;
+}
+li a {
     display: inline-block;
-    width: 100%;
+    text-decoration: none;
+    font-weight: 300;
+
+    
+}
+.nrfr {
+    text-align: end;
+    display: flex;
+    text-align: center;
 }

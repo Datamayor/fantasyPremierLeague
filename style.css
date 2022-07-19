@@ -5,22 +5,12 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-ul{
-    list-style-type: none;
-    margin: 0;
-    padding: 0px;
-    background-color: purple;
-
-}
-
-li{
+span {
+    background-color: white;
     display: inline-block;
-    
+    margin-left: 10px;
 }
-
-li a {
-    padding: 25px;
-    margin: 30px;
-    text-decoration: none;
-    color: white;
+span img {
+    width: 10px;
+    height: 20px;
 }

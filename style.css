@@ -1,0 +1,26 @@
+*{
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0px;
+    background-color: purple;
+
+}
+
+li{
+    display: inline-block;
+    
+}
+
+li a {
+    padding: 25px;
+    margin: 30px;
+    text-decoration: none;
+    color: white;
+}
